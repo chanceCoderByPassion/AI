@@ -2,7 +2,7 @@ langchain==0.2.10
 langchain-openai==0.1.17
 python-dotenv==1.0.1
 langchain-groq==0.1.6
-langchain_community
+langchain-community
 pypdf
 beautifulsoup4
 arxiv
@@ -10,3 +10,5 @@ pymupdf
 wikipedia
 langchain-text-splitters
 lxml
+sentence-tranformers
+langchain_huggingface   
