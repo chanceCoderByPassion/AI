@@ -1,7 +1,7 @@
-langchain==0.2.10
-langchain-openai==0.1.17
+langchain
+langchain-openai
 python-dotenv==1.0.1
-langchain-groq==0.1.6
+langchain-groq
 langchain-community
 pypdf
 beautifulsoup4
@@ -10,5 +10,8 @@ pymupdf
 wikipedia
 langchain-text-splitters
 lxml
-sentence-tranformers
-langchain_huggingface   
+faiss-cpu
+sentence-transformers
+langchain_huggingface 
+chromadb
+langchain_chroma
