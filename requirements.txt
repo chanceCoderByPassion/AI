@@ -15,3 +15,5 @@ sentence-transformers
 langchain_huggingface 
 chromadb
 langchain_chroma
+streamlit
+langchain-ollama
