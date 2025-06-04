@@ -21,3 +21,10 @@ fastapi
 uvicorn
 langserve
 sse_starlette
+PyPDF2
+duckduckgo-search
+validators==0.28.1
+youtube_transcript_api
+unstructured
+pytube
+numexpr
