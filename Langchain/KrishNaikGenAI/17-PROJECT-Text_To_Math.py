@@ -86,4 +86,4 @@ if st.button("Find my answer"):
             st.write('Response::')
             st.success(response)
     else:
-        st.warning("plesae enter the question")
+        st.warning("please enter the question")
